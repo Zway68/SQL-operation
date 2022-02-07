@@ -1,6 +1,7 @@
 # SQL-operation
 Learning SQL
 Selec Clasue:
+
 USE sql_store;-- each step needs semicolom to terminate queries
 SELECT * -- select clause
 FROM customers -- select from dataset
